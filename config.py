@@ -3,13 +3,13 @@
 # ============================================================
 
 # ── Bot Settings ─────────────────────────────────────────────
-BOT_TOKEN   = "YOUR_BOT_TOKEN"        # From @BotFather
-ADMIN_ID    = 123456789               # Your Telegram user ID (get from @userinfobot)
+BOT_TOKEN   = "8510325271:AAHcnyFvpYxN_kXIipLMg42RF298HfNiDLQ"        # From @BotFather
+ADMIN_ID    =                # Your Telegram user ID (get from @userinfobot)
 
 # ── Group/Channel ────────────────────────────────────────────
 GROUP_ID          = -1001234567890    # Your group/channel ID (negative number)
-GROUP_NAME        = "ጌች የመኪና እቃብ"   # Your group display name
-GROUP_INVITE_LINK = "https://t.me/+XXXXXXXXXX"  # Your group invite link
+GROUP_NAME        = "ozone2024"   # Your group display name
+GROUP_INVITE_LINK = "https://t.me/ozone2024"  # Your group invite link
 
 # ── Points ───────────────────────────────────────────────────
 POINTS_PER_REFERRAL = 10             # Points earned per referral
